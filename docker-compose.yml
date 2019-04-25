@@ -7,5 +7,3 @@ services:
       PORT: 3001
     ports:
       - 4000:3001
-    cap_add:
-      - SYS_ADMIN
